@@ -1,0 +1,87 @@
+body {
+  background: #eeeeee;
+  background-image: url("http://res.cloudinary.com/beekey/image/upload/v1466640152/background2j_ilelgw.jpg");
+}
+
+i {
+  color: #4A2222;
+  margin: 0 7px;
+}
+
+#buttonContainer {
+  padding-top: 7px;
+}
+
+#socMedia {
+  margin-bottom: 21px;
+}
+
+#socMedia i:hover {
+  color: #E4644B;
+}
+
+#getQuote,
+#getQuote:focus {
+  background: #4A2222;
+  color: #EFECDD;
+  padding: 12px;
+  border-radius: 7px;
+  outline: 0;
+}
+
+#getQuote:hover {
+  background: #E4644B;
+  color: #4A2222;
+}
+
+.quote {
+  border-radius: 12px;
+  border: 2px solid #4A2222;
+  box-shadow: 0 0 21px 3px grey;
+  margin: 21px 1px 21px 1px;
+  padding: 2vw 2vw 0.5vw 2vw;
+  background: rgba(255, 255, 255, 0.8);
+}
+
+#heading {
+  margin-top: 5vh;
+  font-size: 5vw;
+  text-shadow: 2px 2px 0 white;
+  font-family: 'Covered By Your Grace', cursive;
+  color: #4A2222;
+  letter-spacing: 1px;
+  line-height: 1;
+}
+
+#author {
+  font-size: 4vw;
+  color: #4A2222;
+  padding: 2px;
+  font-family: 'Covered By Your Grace', cursive;
+  letter-spacing: 1px;
+  opacity: 0.7;
+  margin-bottom: 0;
+}
+
+.quo {
+  font-family: 'Bree Serif', serif;
+  font-size: 4vw;
+  color: #4A2222;
+  line-height: 1.2;
+}
+
+#codedBy {
+  color: #4A2222;
+  padding: 0px;
+  margin: 21px;
+}
+
+#codedBy a {
+  color: #4A2222;
+  text-decoration: none;
+}
+
+#codedBy a:hover {
+  color: #E4644B;
+  text-decoration: none;
+}
